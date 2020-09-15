@@ -10,3 +10,4 @@ class CreateArtists < ActiveRecord::Migration[5.2]
     :artists do |t|
     end 
 end 
+end 
